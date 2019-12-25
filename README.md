@@ -18,7 +18,7 @@
 Α. Εγκατάσταση Python & Εκτέλεση Προγράμματος
 
   1. Απαιτείται η [Python 3.8](https://www.python.org/downloads/)
-  2. Κατεβάζουμε το πρόγραμμα σε αρχείο zip και το κάνουμε εξαγωγή σε κάποιο φάκελο
+  2. [Κατεβάζουμε το πρόγραμμα](https://github.com/mariosffx/uniwa-generate-lesson-marks/archive/master.zip) σε αρχείο zip και το κάνουμε εξαγωγή σε κάποιο φάκελο
   3. Ανοιγούμε τον φάκελο, πατάμε δεξί κλικ στο κενό του φακελού και επιλέγουμε "Open Powershell Window Here"
     ![Step A3](Guide/stepa3.png "Step A3")
   4. Πληκτρολογούμε τις Παρακάτω Εντολές με την σειρά
